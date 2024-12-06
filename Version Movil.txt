@@ -1,0 +1,7 @@
+Perfil Compradores
+* Pantallas del sistema. 
+* Funcionamiento con BD Local.
+* API REST.
+* Mostrar articulos.
+* Comprar articulos.
+* Mostar tiendas.

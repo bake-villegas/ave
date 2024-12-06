@@ -1,0 +1,59 @@
+REVISION DEL 04 AL 08 DE NOVIEMBRE
+REVISION DEL 25 AL 29 DE NOVIEMBRE
+---------------------
+USUARIOS
+correo
+nombres
+apellidos
+lista_favoritos
+   id_producto
+compras
+   id_compra
+   articulos
+-------
+,
+ {
+  "_id": {
+    "$oid": "67299e7f3862ddb3d6a2b1e0"
+  },
+  "correo":"creador@gmail.com",
+  "nombres":"Brayan Kenneth",
+  "apellidos":"Villegas",
+  "lista_favoritos":[
+    {"id_producto":""}
+  ],
+  "compras":[
+    {"id_compra":""},
+    {"articulos":[
+      {"id_producto":"","cantidad":""}
+    ]}
+  ]
+}
+-------
+---------------------
+PRODUCTOS
+nombre
+cantidad
+tienda
+descripcion
+imagen
+precio
+---------------------
+-------
+{
+  "_id": {
+    "$oid": "6729914d3862ddb3d6a2b1db"
+  },
+  "nombre": "Fabuloso",
+  "cantidad": 21,
+  "tienda": "El Real",
+  "descripcion": "Limpiador Multiusos",
+  "imagen_url": "ave/images/fabuloso.jpg",
+  "precio": 24
+}
+-------
+
+bottomNavigation
+drawerNavigation
+
+ext ThunderClient

@@ -1,0 +1,5 @@
+Perfil Proveedores
+* Mostar articulos.
+* Agregar articulos.
+* Agregar tiendas.
+* Mostar tiendas.
